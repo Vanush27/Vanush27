@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm <a href="https://t.me/Vanush90" target="_blank">Vanush</a> </h1>
-<h3 align="center">React Native Developer, from Armenia 
+<h3 align="center">from Armenia 
   <img src="https://github.com/Vanush27/Vanush27/assets/32162061/d1635c4c-718b-4a6d-b50a-d5e1f64f847a" height="18" width="24"/>
  </h3>
 
